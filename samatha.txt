@@ -1,11 +1,8 @@
 Name: Samatha
 Team: Sales Cloud Q3
 Fav animal: dog
-
-
-
 Fav color: blue
 
-Adding copyright info
+Adding copyright info 1901-2079
 
 Non commited info
