@@ -4,6 +4,6 @@ Fav animal: dog
 Fav color: blue
 Fav city: LV
 
-Adding copyright info
+Adding copyright info 1901-2079
 
 Non commited info
