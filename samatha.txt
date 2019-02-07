@@ -1,4 +1,4 @@
-Name: Samatha
+Name: SAMATHA
 Team: Sales Cloud Q3
 Fav animal: dog
 Fav color: blue
